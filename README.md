@@ -432,7 +432,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Author:** Mustafa Shoukat  
-**Email:** mustafa.shoukat@example.com  
+**Email:** mustafashoukatai@gmail.com  
 **GitHub:** [@Mustafa-Shoukat1](https://github.com/Mustafa-Shoukat1)  
 **LinkedIn:** [Mustafa Shoukat](https://linkedin.com/in/mustafa-shoukat)
 

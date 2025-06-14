@@ -1,10 +1,5 @@
 # Voice AI Agents - Comprehensive AI Voice Assistant Collection
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5--turbo-green.svg)](https://openai.com/)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
-
 ## 🎙️ Overview
 
 Voice AI Agents is a comprehensive collection of intelligent voice-powered AI assistants designed to handle various real-world applications. This repository contains three specialized agents that leverage cutting-edge speech recognition, natural language processing, and text-to-speech technologies to provide seamless voice interactions.
